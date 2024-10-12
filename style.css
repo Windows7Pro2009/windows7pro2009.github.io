@@ -1,5 +1,6 @@
-h1 {
+.heading {
     color: fuchsia;
-    list-style-type: none;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 2em;
 }
-  
