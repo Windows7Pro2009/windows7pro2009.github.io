@@ -4,7 +4,32 @@
     font-weight: bold;
     font-size: 2em;
 }
+
 ul.list {
     color: orange;
     font-weight: bold;
+}
+
+a:link {
+    color: pink;
+}
+  
+a:visited {
+    color: fuchsia;
+}
+  
+a:hover {
+    text-decoration: magenta;
+}
+
+.info {
+    color: orangered;
+    font-style: italic;
+}
+
+.video-container {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
 }
