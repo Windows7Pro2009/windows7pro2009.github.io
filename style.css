@@ -23,13 +23,11 @@ a:hover {
 }
 
 .info {
-    color: orangered;
     font-style: italic;
+    display: flex;
 }
 
 .video-container {
     position: relative;
-    height: 100vh;
-    width: 100%;
     overflow: hidden;
 }
