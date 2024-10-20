@@ -11,15 +11,15 @@ ul.list {
 }
 
 a:link {
-    color: pink;
-}
-  
-a:visited {
     color: fuchsia;
 }
   
+a:visited {
+    color: pink;
+}
+  
 a:hover {
-    text-decoration: magenta;
+    text-decoration: lightcoral;
 }
 
 .info {
